@@ -11,3 +11,4 @@ function sum(first, second)
 }
 console.log(sum(3,2));
 alert(sum(3,2));
+alert(sum)
